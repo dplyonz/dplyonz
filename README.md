@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming an experienced programmer in coding languages like C, C++, Java, etc...
 - 🌱 I’m currently a third year student at University pursuing a degree in Electrical and Computer Engineering
 - 💞️ I’m looking to collaborate on anything that could advance my knowledge/experience in coding.
-- 📫 How to reach me ...
+- 📫 How to reach me ... I check this and my email (dlyons3376@gmail.com) on a daily basis
 
 <!---
 dplyonz/dplyonz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
